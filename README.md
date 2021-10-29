@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: **jwaran78@gmail.com**
 
-- ⚡ Fun fact: **I love to watch movies and songs*
+- ⚡ Fun fact: **I love to watch movies and songs**
 
 <!--- 💻 View my portfolio at [http://jagadhiswaran.github.io](http://jagadhiswaran.github.io)
 
