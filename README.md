@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: **I love to watch movies and songs**
 
-- 💻 View my portfolio at [http://jagadhiswaran.github.io](http://jagadhiswaran.github.io)
+- 💻 View my portfolio at [http://jagadhis.github.io](http://jagadhiswaran.github.io)
 
 - 👨‍💻 Check out my freelance work at [https://www.elitedoctorsconsultancy.in](https://elitedoctorsconsultancy-3291a.web.app/) , [https://synced.co.in/](http://www.synced.co.in)
 
