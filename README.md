@@ -1,9 +1,9 @@
 <h1 align="center">Hi there🚀, I'm Jagadhiswaran</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/jagadhiswaran-d-26159a1ab/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-profile-blue" alt="jagadhiswaran" height="20" width="100" /></a>
-<a href="https://instagram.com/jagadhiswaran_" target="blank"><img align="center" src="https://img.shields.io/badge/iInstagram-profile-orange" alt="jagadhiswaran" height="20" width="100" /></a>
-<a href="https://jwaran78.medium.com/?p=202df8f75af2" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-profile-white" alt="jagadhiswaran" height="20" width="100" /></a>
-<a href="https://github.com/jagadhis" target="blank"><img align="center" src="https://img.shields.io/badge/Github-profile-Black" alt="jagadhiswaran" height="20" width="100" /></a>
+<a href="https://www.linkedin.com/in/jagadhiswaran-d-26159a1ab/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jagadhiswaran" height="20" width="100" /></a>
+<a href="https://instagram.com/jagadhiswaran_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jagadhiswaran" height="20" width="100" /></a>
+<a href="https://jwaran78.medium.com/?p=202df8f75af2" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="jagadhiswaran" height="20" width="100" /></a>
+<a href="https://github.com/jagadhis" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="jagadhiswaran" height="20" width="100" /></a>
 </p>
 <h4 align="center">Creative frontend developer 🎨 with more passionate about design and creating new things and making attractive websites and apps. Currently pursuing final year in St.joseph's college of engineering. Currently working on React.js,React native in building website and apps. Developed clones of hulu , fb-messenger and created a app on rockpaperscissor game using Reactnative and React.js.freelance website developer,application developer ,ui/ux designer. </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagadhis" alt="jagadhis" /> </p>
