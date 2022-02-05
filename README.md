@@ -60,6 +60,7 @@
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadhis&show_icons=true&theme=radical" alt="jagadhis" /></p>
  
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadhis&layout=compact&theme=radical" alt="jagadhis" /></p>
+ <p align="center"><img align="center" src="<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadhis&layout=compact&theme=radical" alt="jagadhis" /></p>" alt="jagadhis" /></p>
  
 
 <hr></hr>
