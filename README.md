@@ -6,7 +6,10 @@
 <a href="https://github.com/jagadhis" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="jagadhiswaran" height="20" width="80" /></a>
 </p>
 <h4 align="center">Creative frontend developer 🎨 with more passionate about design and creating new things and making attractive websites and apps. Currently pursuing final year in St.joseph's college of engineering. Currently working on React.js,React native in building website and apps. Developed clones of hulu , fb-messenger and created a app on rockpaperscissor game using Reactnative and React.js.freelance website developer,application developer ,ui/ux designer. </h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jagadhis" alt="jagadhis" /> </p>
+
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Visitor Count](https://profile-counter.glitch.me/{jagadhis}/count.svg?align=center)
+
 
 - 🔭 I’m currently working on **Javascript,React.js,TailwindCSS,TypeScript**
 
