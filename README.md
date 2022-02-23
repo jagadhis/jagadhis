@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Javascript,React.js,TailwindCSS,TypeScript**
 
-- 🌱 I’m currently learning **RESTAPI,ANT Designs,MongoDB*
+- 🌱 I’m currently learning **RESTAPI,ANT Designs,MongoDB**
 
 - 👯 I’m looking to collaborate With **More web developers and app developers and improve the community.**
 
