@@ -8,13 +8,13 @@
 <h4 align="center">Creative frontend developer 🎨 with more passionate about design and creating new things and making attractive websites and apps. Currently pursuing final year in St.joseph's college of engineering. Currently working on React.js,React native in building website and apps. Developed clones of hulu , fb-messenger and created a app on rockpaperscissor game using Reactnative and React.js.freelance website developer,application developer ,ui/ux designer. </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagadhis" alt="jagadhis" /> </p>
 
-- 🔭 I’m currently working on **Javascript,React.js**
+- 🔭 I’m currently working on **Javascript,React.js,TailwindCSS,TypeScript**
 
-- 🌱 I’m currently learning **Java,RESTAPI**
+- 🌱 I’m currently learning **RESTAPI,ANT Designs,MongoDB*
 
 - 👯 I’m looking to collaborate With **More web developers and app developers and improve the community.**
 
-- 🤔 I’m looking for help with **Java,Typescript**
+- 🤔 I’m looking for help with **RestAPI**
 
 - 💬 Ask me about **React.js , Javascript ,ReactNative , c, Firebase, Node.js**
 
