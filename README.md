@@ -5,7 +5,7 @@
 <a href="https://jwaran78.medium.com/?p=202df8f75af2" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="jagadhiswaran" height="20" width="80" /></a>
 <a href="https://github.com/jagadhis" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="jagadhiswaran" height="20" width="80" /></a>
 </p>
-<h4 align="center">Creative frontend developer 🎨 with more passionate about design and creating new things and making attractive websites and apps. Currently pursuing final year in St.joseph's college of engineering. Currently working on React.js,React native in building website and apps. Developed clones of hulu , fb-messenger and created a app on rockpaperscissor game using Reactnative and React.js.freelance website developer,application developer ,ui/ux designer. </h4>
+<h4 align="center">Creative frontend developer 🎨 with more passionate about design and creating new things and making attractive websites and apps. Looking forward to move into the Web3.0 world </h4>
 
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitor Count](https://profile-counter.glitch.me/{jagadhis}/count.svg?align=center)
