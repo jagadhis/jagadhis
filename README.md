@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **Javascript,React.js,TailwindCSS,TypeScript**
 
-- 🌱 I’m currently learning **RESTAPI,ANT Designs,MongoDB**
+- 🌱 I’m currently learning **Ethereum,Blockchain**
 
 - 👯 I’m looking to collaborate With **More web developers and app developers and improve the community.**
 
-- 🤔 I’m looking for help with **RestAPI**
+- 🤔 I’m looking for help with **Web3.0 Solidity development**
 
-- 💬 Ask me about **React.js , Javascript ,ReactNative , c, Firebase, Node.js**
+- 💬 Ask me about **React.js , Javascript  , Firebase, Node.js**
 
 - 📫 How to reach me: **jwaran78@gmail.com**
 
