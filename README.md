@@ -17,9 +17,9 @@
 
 - 👯 I’m looking to collaborate With **More web developers and app developers and improve the community.**
 
-- 🤔 I’m looking for help with **Web3.0 Solidity development**
+- 🤔 I’m looking for help with **Web3.0 ,Solidity development**
 
-- 💬 Ask me about **React.js , Javascript  , Firebase, Node.js**
+- 💬 Ask me about **React.js , Javascript  ,TypeScript, Firebase, Node.js**
 
 - 📫 How to reach me: **jwaran78@gmail.com**
 
