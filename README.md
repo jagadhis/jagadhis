@@ -63,7 +63,7 @@
  
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadhis&layout=compact&theme=radical" alt="jagadhis" /></p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jagadhis&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="jagadhis" /></p>
- <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jagadhis&bg_color=140805&color=38dae5&line=ca931c&point=81b8c5&area=true&hide_border=true"  alt="jagadhis" /></p>
+
  
 
 <hr></hr>
