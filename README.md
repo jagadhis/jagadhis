@@ -11,7 +11,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{jagadhis}/count.svg?align=center)
 
 
-- 🔭 I’m currently working on **Javascript,React.js,TailwindCSS,TypeScript,Saga Middleware,Figma**
+- 🔭 I’m currently working on **Javascript,React.js,TailwindCSS,TypeScript,Saga Middleware,Figma,Ant Designs**
 
 - 🌱 I’m currently learning **Node.js , Docker,Solidity,Blockchain**
 
