@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Javascript,React.js,TailwindCSS,TypeScript,Saga Middleware,Figma,Ant Designs**
 
-- 🌱 I’m currently learning **Node.js , Docker,Solidity,Blockchain**
+- 🌱 I’m currently learning **Node.js , Docker,Solidity,Blockchain,Video Editing**
 
 - 👯 I’m looking to collaborate With **More web developers and app developers and improve the community.**
 
