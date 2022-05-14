@@ -9,7 +9,7 @@ Creative frontend developer 🎨 with more passionate about design and creating 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Website](http://jagadhis.github.io/)
 * ✉️  You can contact me at [jwaran78@gmail.com](mailto:jwaran78@gmail.com)
-* 🚀  I'm currently working on [Thinkjs](http://jagadhis.github.io/)
+* 🚀  I'm currently working on [Thinkjs]("")
 * 🧠  I'm learning Node.js , Solidity , Blockchain , Spring Boot , System Design , WebFlow
 * 🤝  I'm open to collaborating on Interesting Projects And Web Developers Community
 * ⚡  Listen to Music and Code
