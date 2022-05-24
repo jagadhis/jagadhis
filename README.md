@@ -1,7 +1,7 @@
 Hi 👋 My name is jagadhiswaran D
 ================================
 
-Web Developer
+Application Developer
 -------------
 
 Creative frontend developer 🎨 with more passionate about design and creating new things and making attractive websites and apps. Looking forward to move into the Web3.0 world And Interested in Ethreum and Solidity Development
