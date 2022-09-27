@@ -10,7 +10,7 @@ Creative frontend developer 🎨 with more passionate about design and creating 
 * 🖥️  See my portfolio at [My Website](http://jagadhis.github.io/)
 * ✉️  You can contact me at [jwaran78@gmail.com](mailto:jwaran78@gmail.com)
 * 🚀  I'm currently working on [Thinkjs](https://www.thinkjs.co/)
-* 🧠  I'm learning React,Typescript,React-Query
+* 🧠  I'm learning React,Typescript,React-Query,Material UI
 * 🤝  I'm open to collaborating on Interesting Projects And Web Developers Community
 * ⚡  Listen to Music and Code
 
