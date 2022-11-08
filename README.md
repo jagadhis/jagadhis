@@ -4,7 +4,7 @@ Hi 👋 My name is jagadhiswaran D
 Software Engineer
 -------------
 
-Creative frontend developer 🎨 with more passionate about design and creating new things and making attractive websites and apps. Looking forward to move into the Web3.0 world And Interested in Ethreum and Solidity Development
+Software developer with more passionate about Architecture, design and developing new things and making attractive Applications and Softwares. Looking Forward to work with startup teams and interests in Web3.0 space, Ethereum and Solidity Development.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Website](http://jagadhis.github.io/)
