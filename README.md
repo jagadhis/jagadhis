@@ -10,7 +10,7 @@ Software developer with more passionate about Architecture, design and developin
 * 🖥️  See my portfolio at [My Website](http://jagadhis.github.io/)
 * ✉️  You can contact me at [jwaran78@gmail.com](mailto:jwaran78@gmail.com)
 * 🚀  I'm currently working on [Thinkjs](https://www.thinkjs.co/)
-* 🧠  I'm learning Microservice Architecture, Distributed Systems, Angular
+* 🧠  I'm learning Microservice Architecture, Distributed Systems, Angular, Nodejs
 * 🤝  I'm open to collaborating on Interesting Projects And Web Developers Community
 * ⚡  Listen to Music and Code
 
