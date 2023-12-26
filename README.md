@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagadhiswaran Devaraj</h1>
-<h3 align="center">People Call me Jags. I am a Software Engineer(Full Stack). Building Enterprise related applications with robust coding architecture</h3>
+<h3 align="center">People Call me Jags. I am a Software Engineer(Full Stack), very curious to learn about robust coding architecture and design patterns and hardcore tech nerd who loves gadgets and technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadhis&label=Profile%20views&color=0e75b6&style=flat" alt="jagadhis" /> </p>
 
