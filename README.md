@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadhis&label=Profile%20views&color=0e75b6&style=flat" alt="jagadhis" /> </p>
 
-- 🌱 I’m currently Working on **Angular, Springboot, Kotlin, UI/UX, DevOps**
+- 🌱 I’m currently Working on **Angular, Springboot, Kotlin, UI/UX, DevOps, Test-Automation**
 
 - 💬 Ask me about **Javascript, Design, UI/UX, Angular, Springboot**
 
