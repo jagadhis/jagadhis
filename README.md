@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Working on **Angular, Springboot, Kotlin, UI/UX, DevOps, Test-Automation**
 
-- 💬 Ask me about **Javascript, Design, UI/UX, Angular, Springboot**
+- 💬 Ask me about **Javascript, Design, UI/UX, Angular**
 
 - 📫 How to reach me **jwaran78@gmail.com**
 
