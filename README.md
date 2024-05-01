@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Javascript, Design, UI/UX, Angular, Typescript**
 
+- Open to have discussions about **System Design and Architecting and Scaling software products**
+
 - 📫 How to reach me **jwaran78@gmail.com**
 
 - ⚡ Fun fact **I am funny at work and serious at life**
