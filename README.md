@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadhis&show_icons=true&locale=en&layout=compact" alt="jagadhis" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jags" alt="jagadhis" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=jags" alt="jagadhis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadhis&show_icons=true&locale=en" alt="jagadhis" /></p>
 
