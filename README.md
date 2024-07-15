@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Working on **Angular, NextJs, React, Springboot, Kotlin, UI/UX**
 
-- 💬 Ask me about **Javascript, Design, UI/UX, Angular, Typescript**
+- 💬 Ask me about **Javascript, Design, UI/UX, Angular, React, Typescript**
 
 - Open to have discussions about **System design and architecting and scaling software products**
 
