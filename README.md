@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, Design system, UI/UX, Angular, React, Typescript**
 
-- Open to have discussions about **System design and architecting and scaling software products**
+- Open to have discussions about **Robust system design and architecting and scaling software products**
 
 - 📫 How to reach me **jwaran78@gmail.com**
 
