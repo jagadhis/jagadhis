@@ -8,9 +8,9 @@ I'm a passionate Software Engineer with a love for both coding and design. My ex
 - **Backend:** Nodejs, Expressjs, Springboot
 - **Frontend:** Reactjs, Nextjs, Angular
 - **Databases:** PostgreSQL, MongoDB
-- **Cloud & DevOps:** [AWS, Kubernetes, Terraforms, Docker]
+- **Cloud & DevOps:** AWS, Kubernetes, Terraforms, Docker
 - **Architecture:** Microservices, Serverless, Event-Driven Architecture
-- **Design:** UI/UX, Prototyping, [Figma]
+- **Design:** UI/UX, Prototyping, Figma
 
 ## 💡 Areas of Expertise
 - Designing and implementing scalable backend systems
@@ -44,8 +44,9 @@ I believe that great software is not just about functionality, but also about us
 - [LinkedIn](https://www.linkedin.com/in/jagadhiswaran-devaraj/)
 
 ## 🌱 I'm currently exploring
-- [Emerging technology or design trend, e.g., AI-driven design systems]
-- [Another area of interest combining software engineering and design]
+- Emerging technology or design trend, e.g., AI-driven design systems
+- Another area of interest combining software engineering and design
+- Springboot and Devops
 
 ## 👯 I'm looking to collaborate on
 - Open-source projects that value both technical robustness and design aesthetics
