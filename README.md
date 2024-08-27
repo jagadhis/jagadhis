@@ -37,6 +37,9 @@ I believe that great software is not just about functionality, but also about us
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadhis&show_icons=true&theme=radical)
 
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagadhis&theme=dark)](https://git.io/streak-stats)
+
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/jagadhiswaran-devaraj/)
 
