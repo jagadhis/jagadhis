@@ -34,14 +34,24 @@ I believe that great software is not just about functionality, but also about us
 - Creative thinking to solve both technical and design challenges
 - Continuous learner, always exploring new technologies and design trends
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadhis&show_icons=true&theme=radical)
+## 📊 GitHub Stats and Contributions
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagadhis&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jagadhis&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadhis&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/jagadhiswaran-devaraj/)
+- [Personal Blog/Medium](https://medium.com/@jwaran78)
 
 ## 🌱 I'm currently exploring
 - Emerging technology or design trend, e.g., AI-driven design systems
