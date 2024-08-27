@@ -13,12 +13,9 @@ I'm a passionate Software Engineer with a love for both coding and design. My ex
 - **Design:** UI/UX, Prototyping, Figma
 
 ## 💡 Areas of Expertise
-- Designing and implementing scalable backend systems
-- Creating robust API architectures
 - Developing intuitive and responsive user interfaces
 - Optimizing database performance for high-load applications
 - Implementing DevOps practices for continuous integration and deployment
-- Architecting cloud-native solutions
 - Bridging the gap between design and development
 
 ## 🎨 Design Philosophy
