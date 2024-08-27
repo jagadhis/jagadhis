@@ -14,7 +14,7 @@ I'm a passionate Software Engineer with a love for both coding and design. My ex
 
 ## 💡 Areas of Expertise
 - Developing intuitive and responsive user interfaces
-- Optimizing database performance for high-load applications
+- Optimizing performance for high-load applications
 - Implementing DevOps practices for continuous integration and deployment
 - Bridging the gap between design and development
 
