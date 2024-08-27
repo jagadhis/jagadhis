@@ -1,30 +1,60 @@
-<h1 align="center">Hi 👋, I'm Jagadhiswaran Devaraj</h1>
-<h3 align="center">People Call me Jags. I am a Full Stack Engineer, very curious to learn about robust coding architecture and design patterns, and loves to work on applications from zero to one</h3>
+# 👋 Hi there, I'm Jags
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadhis&label=Profile%20views&color=0e75b6&style=flat" alt="jagadhis" /> </p>
+## 🚀 About Me
+I'm a passionate Software Engineer with a love for both coding and design. My expertise lies in building scalable solutions and creating visually appealing, user-friendly interfaces. I believe in the power of combining robust architecture with intuitive design to craft exceptional digital experiences.
 
-- 🌱 I’m currently Working on **Angular, NextJs, React, Springboot, Kotlin, UI/UX**
+## 🛠 Skills
+- **Languages:** Javascript, Kotlin, HTML
+- **Backend:** Nodejs, Expressjs, Springboot
+- **Frontend:** Reactjs, Nextjs, Angular
+- **Databases:** PostgreSQL, MongoDB
+- **Cloud & DevOps:** [AWS, Kubernetes, Terraforms, Docker]
+- **Architecture:** Microservices, Serverless, Event-Driven Architecture
+- **Design:** UI/UX, Prototyping, [Figma]
 
-- 💬 Ask me about **Javascript, Design system, UI/UX, Angular, React, Typescript**
+## 💡 Areas of Expertise
+- Designing and implementing scalable backend systems
+- Creating robust API architectures
+- Developing intuitive and responsive user interfaces
+- Optimizing database performance for high-load applications
+- Implementing DevOps practices for continuous integration and deployment
+- Architecting cloud-native solutions
+- Bridging the gap between design and development
 
-- Open to have discussions about **System design, architecting and scaling software products**
+## 🎨 Design Philosophy
+I believe that great software is not just about functionality, but also about user experience. My approach combines:
+- Clean, intuitive interfaces that prioritize user needs
+- Thoughtful color schemes and typography to enhance readability and visual appeal
+- Responsive designs that work seamlessly across devices
+- Accessibility considerations to ensure inclusivity
+- Balancing aesthetic appeal with performance optimization
 
-- 📫 How to reach me **jwaran78@gmail.com**
+## 🌟 What I Bring to the Table
+- Strong problem-solving skills with an eye for detail
+- Experience in architecting products from concept to deployment
+- Ability to work effectively in cross-functional teams
+- Passion for clean, maintainable, and efficient code
+- Creative thinking to solve both technical and design challenges
+- Continuous learner, always exploring new technologies and design trends
 
-- ⚡ Fun fact **I am funny at work and serious at life**
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadhis&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jagadhiswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadhiswaran" height="30" width="40" /></a>
-</p>
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/jagadhiswaran-devaraj/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🌱 I'm currently exploring
+- [Emerging technology or design trend, e.g., AI-driven design systems]
+- [Another area of interest combining software engineering and design]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadhis&show_icons=true&locale=en&layout=compact" alt="jagadhis" /></p>
+## 👯 I'm looking to collaborate on
+- Open-source projects that value both technical robustness and design aesthetics
+- Innovative ideas that require a blend of strong architecture and intuitive user experience
+- Projects that push the boundaries of web design and interactivity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadhis&show_icons=true&locale=en" alt="jagadhis" /></p>
+## ⚡ Fun fact
+- I like to code when i am high
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadhis&" alt="jagadhis" /></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jags&show_icons=true&locale=en&layout=compact" alt="jagadhis" /></p>
+I'm always excited to discuss new ideas that merge technology and design. If you're working on something innovative that needs both solid architecture and a great user experience, let's connect!
