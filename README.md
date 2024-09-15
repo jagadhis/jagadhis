@@ -6,7 +6,7 @@ I'm a passionate Software Engineer with a love for both coding and design. My ex
 ## 🛠 Skills
 - **Languages:** Javascript, Kotlin, HTML, java
 - **Backend:** Nodejs, Expressjs, Springboot
-- **Frontend:** Reactjs, Nextjs, Angular, React Native
+- **Frontend:** Reactjs, Nextjs, Angular, React Native, Flutter
 - **Databases:** PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS, Kubernetes, Terraforms, Docker
 - **Architecture:** Microservices, Serverless, Event-Driven Architecture
