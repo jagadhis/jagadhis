@@ -63,9 +63,6 @@ I believe that great software is not just about functionality, but also about us
 - Innovative ideas that require a blend of strong architecture and intuitive user experience
 - Projects that push the boundaries of web design and interactivity
 
-## ⚡ Fun fact
-- I like to code when i am high
-
 ---
 
 I'm always excited to discuss new ideas that merge technology and design. If you're working on something innovative that needs both solid architecture and a great user experience, let's connect!
