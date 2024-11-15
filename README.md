@@ -4,7 +4,7 @@
 I'm a passionate Software Engineer with a love for both coding and design. My expertise lies in building scalable solutions and creating visually appealing, user-friendly interfaces. I believe in the power of combining robust architecture with intuitive design to craft exceptional digital experiences.
 
 ## 🛠 Skills
-- **Languages:** Javascript, Kotlin, HTML, java
+- **Languages:** Javascript, Kotlin, HTML, CSS, SQL, java
 - **Backend:** Nodejs, Expressjs, Springboot
 - **Frontend:** Reactjs, Nextjs, Angular
 - **Databases:** PostgreSQL, MongoDB
