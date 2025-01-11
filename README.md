@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jags
 
 ## 🚀 About Me
-I'm a passionate Software Engineer with a love for both coding and design and a tech nerd. My expertise lies in building scalable solutions and creating visually appealing, user-friendly interfaces. I believe in the power of combining robust architecture with intuitive design to craft exceptional digital experiences.
+I'm a passionate Full stack software engineer with a love for both coding and design and a tech nerd. My expertise lies in building scalable solutions and creating visually appealing, user-friendly interfaces. I believe in the power of combining robust architecture with intuitive design to craft exceptional digital experiences.
 
 ## 🛠 Skills
 - **Languages:** Javascript, Kotlin, HTML, CSS, SQL, java
