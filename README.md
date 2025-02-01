@@ -7,7 +7,7 @@ I'm a passionate Full stack software engineer with a love for both coding and de
 - **Languages:** Javascript, Kotlin, HTML, CSS, SQL
 - **Backend:** Nodejs, Springboot
 - **Frontend:** Reactjs, Nextjs, Angular
-- **Databases:** PostgreSQL, MongoDB, supabase
+- **Databases:** PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS, Kubernetes, Terraforms, Docker
 - **Architecture:** Microservices, Serverless
 - **Design:** UI/UX, Prototyping, Figma
