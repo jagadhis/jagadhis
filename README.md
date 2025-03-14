@@ -46,6 +46,15 @@ I believe that great software is not just about functionality, but also about us
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadhis&theme=radical" alt="GitHub Streak" />
       </td>
     </tr>
+    <tr>
+     <td>
+  <a href="https://gitroll.io/profile/uLnZOZLfZXLgojmMdkQojIZlyeoi2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uLnZOZLfZXLgojmMdkQojIZlyeoi2?theme=dark" 
+         alt="GitRoll Profile Badge" 
+         width="550" height="275"/>
+  </a>
+</td>
+    </tr>
   </table>
 </div>
 
