@@ -64,7 +64,7 @@ I believe that great software is not just about functionality, but also about us
 
 ## 🌱 I'm currently exploring
 - Emerging technology or design trend, e.g., AI-driven design systems, MCP
-- System design, AI-agents, Supabase, Prisma, Rust
+- System design, AI-agents, Supabase, Rust
 - Another area of interest combining software engineering and design
 
 ## 👯 I'm looking to collaborate on
