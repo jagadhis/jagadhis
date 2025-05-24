@@ -63,7 +63,7 @@ I believe that great software is not just about functionality, but also about us
 - [Personal Blog/Medium](https://medium.com/@jwaran78)
 
 ## 🌱 I'm currently exploring
-- Emerging technology or design trend, e.g., AI-driven design systems, MCP
+- Emerging technology or design trend, e.g., AI-driven design systems, MCP, AI-Agents
 - System design, AI-agents, Supabase, Rust
 - Another area of interest combining software engineering and design
 
