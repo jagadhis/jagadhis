@@ -59,6 +59,7 @@ I believe that great software is not just about functionality, but also about us
 </div>
 
 ## 📫 How to reach me
+- [Portfolio](https://thedevjags.com)
 - [LinkedIn](https://www.linkedin.com/in/jagadhiswaran-devaraj/)
 - [Personal Blog/Medium](https://medium.com/@jwaran78)
 
