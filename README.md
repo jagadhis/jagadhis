@@ -5,7 +5,7 @@ I'm a passionate Full stack software engineer with five year experience and love
 
 ## 🛠 Skills
 - **Languages:** Javascript, Kotlin, HTML, CSS, SQL
-- **Backend:** Nodejs, Springboot
+- **Backend:** Nodejs, Springboot, Rust
 - **Frontend:** Reactjs, Nextjs, Angular
 - **Databases:** PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS, Kubernetes, Terraforms, Docker
