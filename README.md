@@ -8,7 +8,7 @@ I'm a passionate Full stack software engineer with five year experience and love
 - **Backend:** Nodejs, Springboot, Rust
 - **Frontend:** Reactjs, Nextjs, Angular
 - **Databases:** PostgreSQL, MongoDB
-- **Cloud & DevOps:** AWS, Kubernetes, Terraforms, Docker
+- **Cloud & DevOps:** AWS, Kubernetes, Terraforms, Docker, GCP
 - **Architecture:** Microservices, Serverless
 - **Design:** UI/UX, Prototyping, Figma
 
