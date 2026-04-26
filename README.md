@@ -9,7 +9,7 @@ I'm a passionate Full stack software engineer with five year experience and love
 - **Frontend:** Reactjs, Nextjs, Angular
 - **Databases:** PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS, Kubernetes, Terraforms, Docker, GCP
-- **Architecture:** Microservices, Serverless
+- **Architecture:** Microservices, Serverless, Agentic Development
 - **Design:** UI/UX, Prototyping, Figma
 
 ## 💡 Areas of Expertise
