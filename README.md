@@ -73,6 +73,8 @@ I believe that great software is not just about functionality, but also about us
 
 I'm always excited to discuss new ideas that merge technology and design. If you're working on something innovative that needs both solid architecture and a great user experience, let's connect!
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jagadhis/jagadhis/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagadhis/jagadhis/output/github-snake.svg" />
