@@ -54,6 +54,15 @@ I believe that great software is not just about functionality, but also about us
   </table>
 </div>
 
+<div align="center">
+  <a href="https://commit-history.com/jagadhis">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/jagadhis?theme=dark" />
+      <img alt="jagadhis's commit history" src="https://commit-history.com/embed/jagadhis" />
+    </picture>
+  </a>
+</div>
+
 ## 📫 How to reach me
 - [Portfolio](https://thedevjags.com)
 - [LinkedIn](https://www.linkedin.com/in/jagadhiswaran-devaraj/)
