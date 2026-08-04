@@ -38,15 +38,6 @@ I believe that great software is not just about functionality, but also about us
 
 <div align="center">
   <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jagadhis&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadhis&theme=radical" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
      <td>
        <a href="https://gitroll.io/profile/uLnZOZLfZXLgojmMdkQojIZlyeoi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLnZOZLfZXLgojmMdkQojIZlyeoi2?theme=darkEmerald" alt="GitRoll Profile Badge" width="550" height="275"/></a>
 </td>
